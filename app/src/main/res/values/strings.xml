@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPushDeviceFake</string>
+    <string name="xposed_description">Mock Device info like XiaoMi Device.</string>
+</resources>
